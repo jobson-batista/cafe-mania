@@ -1,0 +1,5 @@
+#DATABASE
+url==jdbc:mysql://127.0.0.1:3306/cafemania?useTimezone=true&serverTimezone=UTC
+driver==com.mysql.cj.jdbc.Driver
+user==root
+pass==root@root

@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+body {
+	background-color: #D2B48C !important;
+	color: #4A4A4A;
+	font-family: "Ubuntu", sans-serif !important;	
+}
+
+a img {
+	vertical-align: bottom !important;
+	padding-right: 0.5em;
+}
+
+textarea {
+	height: 10em;
+}
+
+form {
+	padding-top: 1em;
+}
+
+h2 {
+	padding-top: 1em;
+}
+
+.container-sm {
+	width: 60% !important;
+}
+
+.register-btn {
+	background-color: #00534e !important;
+	color: #fefefe !important;
+}
+
+.cancel-btn {
+	background-color: #943434 !important;
+	color: #fefefe !important;
+	margin-left: 1em !important;
+}
+
+.toast {
+	position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1050;
+    color: #fff !important; 
+}
+
+/* Esconde as setas de incremento/decremento */
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type=number] {
+  -moz-appearance: textfield; /* Firefox */
+}

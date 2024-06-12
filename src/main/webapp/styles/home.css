@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+body {
+	background-color: #D2B48C !important;
+	color: #4A4A4A;
+	font-family: "Ubuntu", sans-serif !important;	
+}
+
+a img {
+	vertical-align: bottom !important;
+	padding-right: 0.5em;
+}
+
+#carouselAutoplaying {
+	padding-top: 1em;
+	height: 450px;
+	border-radius: 5px !important; 
+}
+
+.carousel-item img {
+	height: "450px";
+}

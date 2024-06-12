@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+.navbar {
+	background: #CAA57A;
+	font-family: "Ubuntu", sans-serif;
+}
+
+	.navbar a {
+		color: #4A4A4A;
+	}
